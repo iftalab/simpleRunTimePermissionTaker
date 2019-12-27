@@ -1,0 +1,10 @@
+<resources>
+    <string name="cancel">Cancel</string>
+    <string name="no">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="overlay_permission">App needs overlay permission from Settings. Continue?</string>
+    <string name="pleaseGrantOverlayPermissionFromSettingForThisApp">Please grant overlay permission from settings for this app</string>
+    <string name="settings">Settings</string>
+    <string name="settingsExplanation">The action requires %1$s permission which you have denied permanently. To use the action, please go to settings and enable the %2$s permission.</string>
+    <string name="write_settings_permission">App needs permission to modify settings. Continue?</string>
+</resources>
