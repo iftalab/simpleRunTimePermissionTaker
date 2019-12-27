@@ -1,6 +1,6 @@
 package com.iftalab.permission;
 
-interface AppPermissionListener {
+public interface AppPermissionListener {
     void onPermissionGranted();
 
     void onPermissionRejected();
